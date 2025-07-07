@@ -2,27 +2,27 @@ apiVersion: v1
 entries:
   core:
   - apiVersion: v1
-    appVersion: 5.4.4
-    created: "2025-05-06T13:48:38.177196866Z"
+    appVersion: 5.4.5
+    created: "2025-05-13T22:27:49.496854545Z"
     description: Helm chart for NeuVector's core services
-    digest: 60fe2fc3519dc8c20c2b1d81e113784b 
+    digest: 38b7a194e246dde1c57da954c9030996
     home: https://neuvector.com
     icon: https://avatars2.githubusercontent.com/u/19367275?s=200&v=4
     maintainers:
     - email: support@neuvector.com
-      name: Venkatesh
+      name: becitsthere
     name: core
     sources:
     - https://github.com/neuvector/neuvector
     - https://github.com/neuvector/neuvector-helm
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.8.7.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.8.7.tgz
     version: 2.8.7
   - apiVersion: v1
-    appVersion: 5.4.3
-    created: "2024-11-19T13:48:38.177196866Z"
+    appVersion: 5.4.4
+    created: "2025-05-13T22:27:49.496854545Z"
     description: Helm chart for NeuVector's core services
-    digest: 6751539e42d81cd0ee5facfd49bbb31e5b9f26900acc3079547799c8e4e70414
+    digest: 1d932cbfe604a1e9f236b2a867052cc0411079ff0a70ee1f69ae33525e314b50
     home: https://neuvector.com
     icon: https://avatars2.githubusercontent.com/u/19367275?s=200&v=4
     maintainers:
@@ -33,13 +33,13 @@ entries:
     - https://github.com/neuvector/neuvector
     - https://github.com/neuvector/neuvector-helm
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.8.6.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.8.6.tgz
     version: 2.8.6
   - apiVersion: v1
-    appVersion: 5.4.2-rc4
-    created: "2024-11-19T13:48:38.177196866Z"
+    appVersion: 5.4.3
+    created: "2025-03-19T21:01:52.329257886Z"
     description: Helm chart for NeuVector's core services
-    digest: 6751539e42d81cd0ee5facfd49bbb31e5b9f26900acc3079547799c8e4e70414
+    digest: eb343bde457ca732f220d51c2c113ee27810468aa5e011ce0e9c2fb3553058f1
     home: https://neuvector.com
     icon: https://avatars2.githubusercontent.com/u/19367275?s=200&v=4
     maintainers:
@@ -50,13 +50,13 @@ entries:
     - https://github.com/neuvector/neuvector
     - https://github.com/neuvector/neuvector-helm
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.8.5.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.8.5.tgz
     version: 2.8.5
   - apiVersion: v1
     appVersion: 5.4.2
-    created: "2024-11-19T13:48:38.177196866Z"
+    created: "2025-01-17T03:34:00.406596447Z"
     description: Helm chart for NeuVector's core services
-    digest: 6751539e42d81cd0ee5facfd49bbb31e5b9f26900acc3079547799c8e4e70414
+    digest: 4e4db6f2602453c3c7b6e905f9f3f5b4e0e94905ef24e1f737c276903f87a8d9
     home: https://neuvector.com
     icon: https://avatars2.githubusercontent.com/u/19367275?s=200&v=4
     maintainers:
@@ -67,7 +67,7 @@ entries:
     - https://github.com/neuvector/neuvector
     - https://github.com/neuvector/neuvector-helm
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.8.4.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.8.4.tgz
     version: 2.8.4
   - apiVersion: v1
     appVersion: 5.4.1
@@ -84,7 +84,7 @@ entries:
     - https://github.com/neuvector/neuvector
     - https://github.com/neuvector/neuvector-helm
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.8.3.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.8.3.tgz
     version: 2.8.3
   - apiVersion: v1
     appVersion: 5.4.0
@@ -101,7 +101,7 @@ entries:
     - https://github.com/neuvector/neuvector
     - https://github.com/neuvector/neuvector-helm
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.8.2.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.8.2.tgz
     version: 2.8.2
   - apiVersion: v1
     appVersion: 5.4.0
@@ -118,7 +118,7 @@ entries:
     - https://github.com/neuvector/neuvector
     - https://github.com/neuvector/neuvector-helm
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.8.1.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.8.1.tgz
     version: 2.8.1
   - apiVersion: v1
     appVersion: 5.4.0
@@ -135,7 +135,7 @@ entries:
     - https://github.com/neuvector/neuvector
     - https://github.com/neuvector/neuvector-helm
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.8.0.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.8.0.tgz
     version: 2.8.0
   - apiVersion: v1
     appVersion: 5.3.4
@@ -152,7 +152,7 @@ entries:
     - https://github.com/neuvector/neuvector
     - https://github.com/neuvector/neuvector-helm
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.7.9.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.7.9.tgz
     version: 2.7.9
   - apiVersion: v1
     appVersion: 5.3.4
@@ -169,7 +169,7 @@ entries:
     - https://github.com/neuvector/neuvector
     - https://github.com/neuvector/neuvector-helm
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.7.8.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.7.8.tgz
     version: 2.7.8
   - apiVersion: v1
     appVersion: 5.3.3
@@ -183,7 +183,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.7.7.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.7.7.tgz
     version: 2.7.7
   - apiVersion: v1
     appVersion: 5.3.2
@@ -197,7 +197,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.7.6.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.7.6.tgz
     version: 2.7.6
   - apiVersion: v1
     appVersion: 5.3.0
@@ -211,7 +211,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.7.5.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.7.5.tgz
     version: 2.7.5
   - apiVersion: v1
     appVersion: 5.3.1
@@ -225,7 +225,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.7.4.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.7.4.tgz
     version: 2.7.4
   - apiVersion: v1
     appVersion: 5.3.0
@@ -239,7 +239,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.7.3.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.7.3.tgz
     version: 2.7.3
   - apiVersion: v1
     appVersion: 5.3.0
@@ -253,7 +253,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.7.2.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.7.2.tgz
     version: 2.7.2
   - apiVersion: v1
     appVersion: 5.2.4-s1
@@ -267,7 +267,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.7.1.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.7.1.tgz
     version: 2.7.1
   - apiVersion: v1
     appVersion: 5.2.4-s1
@@ -281,7 +281,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.7.0.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.7.0.tgz
     version: 2.7.0
   - apiVersion: v1
     appVersion: 5.2.4
@@ -295,7 +295,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.6.6.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.6.6.tgz
     version: 2.6.6
   - apiVersion: v1
     appVersion: 5.2.3
@@ -309,7 +309,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.6.5.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.6.5.tgz
     version: 2.6.5
   - apiVersion: v1
     appVersion: 5.2.2-s1
@@ -323,7 +323,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.6.4.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.6.4.tgz
     version: 2.6.4
   - apiVersion: v1
     appVersion: 5.2.2
@@ -337,7 +337,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.6.3.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.6.3.tgz
     version: 2.6.3
   - apiVersion: v1
     appVersion: 5.2.1
@@ -351,7 +351,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.6.2.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.6.2.tgz
     version: 2.6.2
   - apiVersion: v1
     appVersion: 5.2.0
@@ -365,7 +365,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.6.1.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.6.1.tgz
     version: 2.6.1
   - apiVersion: v1
     appVersion: 5.2.0
@@ -379,7 +379,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.6.0.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.6.0.tgz
     version: 2.6.0
   - apiVersion: v1
     appVersion: 5.1.3
@@ -393,7 +393,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.4.5.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.4.5.tgz
     version: 2.4.5
   - apiVersion: v1
     appVersion: 5.1.3
@@ -407,7 +407,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.4.4.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.4.4.tgz
     version: 2.4.4
   - apiVersion: v1
     appVersion: 5.1.2
@@ -421,7 +421,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.4.3.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.4.3.tgz
     version: 2.4.3
   - apiVersion: v1
     appVersion: 5.1.1
@@ -435,7 +435,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.4.2.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.4.2.tgz
     version: 2.4.2
   - apiVersion: v1
     appVersion: 5.1.0
@@ -449,7 +449,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.4.1.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.4.1.tgz
     version: 2.4.1
   - apiVersion: v1
     appVersion: 5.1.0
@@ -463,7 +463,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.4.0.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.4.0.tgz
     version: 2.4.0
   - apiVersion: v1
     appVersion: 5.0.5
@@ -477,7 +477,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.2.5.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.2.5.tgz
     version: 2.2.5
   - apiVersion: v1
     appVersion: 5.0.4
@@ -491,7 +491,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.2.4.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.2.4.tgz
     version: 2.2.4
   - apiVersion: v1
     appVersion: 5.0.3
@@ -505,7 +505,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.2.3.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.2.3.tgz
     version: 2.2.3
   - apiVersion: v1
     appVersion: 5.0.2
@@ -519,7 +519,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.2.2.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.2.2.tgz
     version: 2.2.2
   - apiVersion: v1
     appVersion: 5.0.1
@@ -533,7 +533,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.2.1.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.2.1.tgz
     version: 2.2.1
   - apiVersion: v1
     appVersion: 5.0.0
@@ -547,7 +547,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.2.0.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.2.0.tgz
     version: 2.2.0
   - apiVersion: v1
     appVersion: 5.0.0-b2
@@ -561,7 +561,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.2.0-b2.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.2.0-b2.tgz
     version: 2.2.0-b2
   - apiVersion: v1
     appVersion: 5.0.0-b1
@@ -575,7 +575,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-2.2.0-b1.tgz
+    - https://neuvector.github.io/neuvector-helm/core-2.2.0-b1.tgz
     version: 2.2.0-b1
   - apiVersion: v1
     appVersion: 4.4.4-s2
@@ -589,7 +589,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.9.2.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.9.2.tgz
     version: 1.9.2
   - apiVersion: v1
     appVersion: 4.4.4
@@ -603,7 +603,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.9.1.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.9.1.tgz
     version: 1.9.1
   - apiVersion: v1
     appVersion: 4.4.4
@@ -617,7 +617,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.9.0.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.9.0.tgz
     version: 1.9.0
   - apiVersion: v1
     appVersion: 4.4.3
@@ -631,7 +631,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.8.9.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.8.9.tgz
     version: 1.8.9
   - apiVersion: v1
     appVersion: 4.4.2
@@ -645,7 +645,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.8.8.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.8.8.tgz
     version: 1.8.8
   - apiVersion: v1
     appVersion: 4.4.1
@@ -659,7 +659,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.8.7.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.8.7.tgz
     version: 1.8.7
   - apiVersion: v1
     appVersion: 4.4.0
@@ -673,7 +673,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.8.6.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.8.6.tgz
     version: 1.8.6
   - apiVersion: v1
     appVersion: 4.3.2
@@ -687,7 +687,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.8.5.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.8.5.tgz
     version: 1.8.5
   - apiVersion: v1
     appVersion: 4.3.2
@@ -701,7 +701,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.8.4.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.8.4.tgz
     version: 1.8.4
   - apiVersion: v1
     appVersion: 4.3.2
@@ -715,7 +715,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.8.3.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.8.3.tgz
     version: 1.8.3
   - apiVersion: v1
     appVersion: 4.3.1
@@ -729,7 +729,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.8.2.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.8.2.tgz
     version: 1.8.2
   - apiVersion: v1
     appVersion: 4.3.0
@@ -743,7 +743,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.8.0.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.8.0.tgz
     version: 1.8.0
   - apiVersion: v1
     appVersion: 4.2.2
@@ -757,7 +757,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.7.7.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.7.7.tgz
     version: 1.7.7
   - apiVersion: v1
     appVersion: 4.2.2
@@ -771,7 +771,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.7.6.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.7.6.tgz
     version: 1.7.6
   - apiVersion: v1
     appVersion: 4.2.0
@@ -785,7 +785,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.7.5.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.7.5.tgz
     version: 1.7.5
   - apiVersion: v1
     appVersion: 4.2.0
@@ -799,7 +799,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.7.2.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.7.2.tgz
     version: 1.7.2
   - apiVersion: v1
     appVersion: 4.2.0
@@ -813,7 +813,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.7.1.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.7.1.tgz
     version: 1.7.1
   - apiVersion: v1
     appVersion: 4.0.0
@@ -827,7 +827,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.7.0.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.7.0.tgz
     version: 1.7.0
   - apiVersion: v1
     appVersion: 4.0.0
@@ -841,7 +841,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.6.9.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.6.9.tgz
     version: 1.6.9
   - apiVersion: v1
     appVersion: 4.0.0
@@ -855,7 +855,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.6.8.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.6.8.tgz
     version: 1.6.8
   - apiVersion: v1
     appVersion: 4.0.0
@@ -869,7 +869,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.6.7.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.6.7.tgz
     version: 1.6.7
   - apiVersion: v1
     appVersion: 4.0.0
@@ -883,7 +883,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.6.6.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.6.6.tgz
     version: 1.6.6
   - apiVersion: v1
     appVersion: 4.0.0
@@ -897,7 +897,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.6.5.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.6.5.tgz
     version: 1.6.5
   - apiVersion: v1
     appVersion: 4.0.0
@@ -911,7 +911,7 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.6.4.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.6.4.tgz
     version: 1.6.4
   - apiVersion: v1
     appVersion: 4.0.0
@@ -928,9 +928,51 @@ entries:
       name: becitsthere
     name: core
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/core-1.6.1.tgz
+    - https://neuvector.github.io/neuvector-helm/core-1.6.1.tgz
     version: 1.6.1
   crd:
+  - apiVersion: v1
+    appVersion: 5.4.4
+    created: "2025-05-13T22:27:49.497087312Z"
+    description: Helm chart for NeuVector's CRD services
+    digest: 5fc338d0a386d09d306c3961e536041aa6501e5b78a616711e69d8ae1fb1a277
+    home: https://neuvector.com
+    icon: https://avatars2.githubusercontent.com/u/19367275?s=200&v=4
+    maintainers:
+    - email: support@neuvector.com
+      name: becitsthere
+    name: crd
+    urls:
+    - https://neuvector.github.io/neuvector-helm/crd-2.8.6.tgz
+    version: 2.8.6
+  - apiVersion: v1
+    appVersion: 5.4.3
+    created: "2025-03-19T21:01:52.32948847Z"
+    description: Helm chart for NeuVector's CRD services
+    digest: f9c3c54f8f7291c32fc611d9803222dbcacb81a631bab1e71f22dc3a6c70e9c8
+    home: https://neuvector.com
+    icon: https://avatars2.githubusercontent.com/u/19367275?s=200&v=4
+    maintainers:
+    - email: support@neuvector.com
+      name: becitsthere
+    name: crd
+    urls:
+    - https://neuvector.github.io/neuvector-helm/crd-2.8.5.tgz
+    version: 2.8.5
+  - apiVersion: v1
+    appVersion: 5.4.2
+    created: "2025-01-17T03:34:00.406823812Z"
+    description: Helm chart for NeuVector's CRD services
+    digest: f52db697b4893b08540e88dc4cddbd1ba2eb303a31086cf6f54c944e60cd7e6c
+    home: https://neuvector.com
+    icon: https://avatars2.githubusercontent.com/u/19367275?s=200&v=4
+    maintainers:
+    - email: support@neuvector.com
+      name: becitsthere
+    name: crd
+    urls:
+    - https://neuvector.github.io/neuvector-helm/crd-2.8.4.tgz
+    version: 2.8.4
   - apiVersion: v1
     appVersion: 5.4.1
     created: "2024-11-19T13:48:38.177416468Z"
@@ -943,7 +985,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.8.3.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.8.3.tgz
     version: 2.8.3
   - apiVersion: v1
     appVersion: 5.4.0
@@ -957,7 +999,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.8.2.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.8.2.tgz
     version: 2.8.2
   - apiVersion: v1
     appVersion: 5.4.0
@@ -971,7 +1013,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.8.1.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.8.1.tgz
     version: 2.8.1
   - apiVersion: v1
     appVersion: 5.4.0
@@ -985,7 +1027,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.8.0.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.8.0.tgz
     version: 2.8.0
   - apiVersion: v1
     appVersion: 5.3.4
@@ -999,7 +1041,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.7.9.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.7.9.tgz
     version: 2.7.9
   - apiVersion: v1
     appVersion: 5.3.4
@@ -1013,7 +1055,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.7.8.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.7.8.tgz
     version: 2.7.8
   - apiVersion: v1
     appVersion: 5.3.3
@@ -1027,7 +1069,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.7.7.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.7.7.tgz
     version: 2.7.7
   - apiVersion: v1
     appVersion: 5.3.2
@@ -1041,7 +1083,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.7.6.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.7.6.tgz
     version: 2.7.6
   - apiVersion: v1
     appVersion: 5.3.0
@@ -1055,7 +1097,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.7.5.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.7.5.tgz
     version: 2.7.5
   - apiVersion: v1
     appVersion: 5.3.1
@@ -1069,7 +1111,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.7.4.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.7.4.tgz
     version: 2.7.4
   - apiVersion: v1
     appVersion: 5.3.0
@@ -1083,7 +1125,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.7.3.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.7.3.tgz
     version: 2.7.3
   - apiVersion: v1
     appVersion: 5.3.0
@@ -1097,7 +1139,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.7.2.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.7.2.tgz
     version: 2.7.2
   - apiVersion: v1
     appVersion: 5.2.4-s1
@@ -1111,7 +1153,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.7.1.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.7.1.tgz
     version: 2.7.1
   - apiVersion: v1
     appVersion: 5.2.4-s1
@@ -1125,7 +1167,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.7.0.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.7.0.tgz
     version: 2.7.0
   - apiVersion: v1
     appVersion: 5.2.4
@@ -1139,7 +1181,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.6.6.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.6.6.tgz
     version: 2.6.6
   - apiVersion: v1
     appVersion: 5.2.3
@@ -1153,7 +1195,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.6.5.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.6.5.tgz
     version: 2.6.5
   - apiVersion: v1
     appVersion: 5.2.2-s1
@@ -1167,7 +1209,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.6.4.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.6.4.tgz
     version: 2.6.4
   - apiVersion: v1
     appVersion: 5.2.3
@@ -1181,7 +1223,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.6.3.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.6.3.tgz
     version: 2.6.3
   - apiVersion: v1
     appVersion: 5.2.1
@@ -1195,7 +1237,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.6.2.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.6.2.tgz
     version: 2.6.2
   - apiVersion: v1
     appVersion: 5.2.0
@@ -1209,7 +1251,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.6.1.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.6.1.tgz
     version: 2.6.1
   - apiVersion: v1
     appVersion: 5.2.0
@@ -1223,7 +1265,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.6.0.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.6.0.tgz
     version: 2.6.0
   - apiVersion: v1
     appVersion: 5.1.3
@@ -1237,7 +1279,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.4.5.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.4.5.tgz
     version: 2.4.5
   - apiVersion: v1
     appVersion: 5.1.3
@@ -1251,7 +1293,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.4.4.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.4.4.tgz
     version: 2.4.4
   - apiVersion: v1
     appVersion: 5.1.2
@@ -1265,7 +1307,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.4.3.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.4.3.tgz
     version: 2.4.3
   - apiVersion: v1
     appVersion: 5.1.1
@@ -1279,7 +1321,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.4.2.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.4.2.tgz
     version: 2.4.2
   - apiVersion: v1
     appVersion: 5.1.0
@@ -1293,7 +1335,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.4.1.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.4.1.tgz
     version: 2.4.1
   - apiVersion: v1
     appVersion: 5.1.0
@@ -1307,7 +1349,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.4.0.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.4.0.tgz
     version: 2.4.0
   - apiVersion: v1
     appVersion: 5.0.5
@@ -1321,7 +1363,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.2.5.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.2.5.tgz
     version: 2.2.5
   - apiVersion: v1
     appVersion: 5.0.4
@@ -1335,7 +1377,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.2.4.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.2.4.tgz
     version: 2.2.4
   - apiVersion: v1
     appVersion: 5.0.3
@@ -1349,7 +1391,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.2.3.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.2.3.tgz
     version: 2.2.3
   - apiVersion: v1
     appVersion: 5.0.2
@@ -1363,7 +1405,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.2.2.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.2.2.tgz
     version: 2.2.2
   - apiVersion: v1
     appVersion: 5.0.1
@@ -1377,7 +1419,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.2.1.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.2.1.tgz
     version: 2.2.1
   - apiVersion: v1
     appVersion: 5.0.0
@@ -1391,7 +1433,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.2.0.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.2.0.tgz
     version: 2.2.0
   - apiVersion: v1
     appVersion: 5.0.0-b2
@@ -1405,7 +1447,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.2.0-b2.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.2.0-b2.tgz
     version: 2.2.0-b2
   - apiVersion: v1
     appVersion: 5.0.0-b1
@@ -1419,7 +1461,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-2.2.0-b1.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-2.2.0-b1.tgz
     version: 2.2.0-b1
   - apiVersion: v1
     appVersion: 4.4.4-s2
@@ -1433,7 +1475,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-1.9.2.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-1.9.2.tgz
     version: 1.9.2
   - apiVersion: v1
     appVersion: 4.0.0
@@ -1447,7 +1489,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-1.6.9.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-1.6.9.tgz
     version: 1.6.9
   - apiVersion: v1
     appVersion: 4.0.0
@@ -1461,7 +1503,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-1.6.8.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-1.6.8.tgz
     version: 1.6.8
   - apiVersion: v1
     appVersion: 4.0.0
@@ -1475,7 +1517,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-1.6.7.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-1.6.7.tgz
     version: 1.6.7
   - apiVersion: v1
     appVersion: 4.0.0
@@ -1489,7 +1531,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-1.6.4.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-1.6.4.tgz
     version: 1.6.4
   - apiVersion: v1
     appVersion: 4.0.0
@@ -1503,7 +1545,7 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-1.6.3.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-1.6.3.tgz
     version: 1.6.3
   - apiVersion: v1
     appVersion: 4.0.0
@@ -1517,9 +1559,51 @@ entries:
       name: becitsthere
     name: crd
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/crd-1.6.2.tgz
+    - https://neuvector.github.io/neuvector-helm/crd-1.6.2.tgz
     version: 1.6.2
   monitor:
+  - apiVersion: v1
+    appVersion: 1.0.5
+    created: "2025-05-13T22:27:49.497507268Z"
+    description: Helm chart for NeuVector monitor services
+    digest: 649a756bf57fce6c61ec226501c971d0d0c3cc621afa5804f0cf1d830be3db8e
+    home: https://neuvector.com
+    icon: https://avatars2.githubusercontent.com/u/19367275?s=200&v=4
+    maintainers:
+    - email: support@neuvector.com
+      name: becitsthere
+    name: monitor
+    urls:
+    - https://neuvector.github.io/neuvector-helm/monitor-2.8.6.tgz
+    version: 2.8.6
+  - apiVersion: v1
+    appVersion: 1.0.2
+    created: "2025-03-19T21:01:52.329883532Z"
+    description: Helm chart for NeuVector monitor services
+    digest: 209b9ab2b4b0122661814c8004be3a53e546fc0513820cd4e390ae9a3c4f70ac
+    home: https://neuvector.com
+    icon: https://avatars2.githubusercontent.com/u/19367275?s=200&v=4
+    maintainers:
+    - email: support@neuvector.com
+      name: becitsthere
+    name: monitor
+    urls:
+    - https://neuvector.github.io/neuvector-helm/monitor-2.8.5.tgz
+    version: 2.8.5
+  - apiVersion: v1
+    appVersion: 1.0.1
+    created: "2025-01-17T03:34:00.407255149Z"
+    description: Helm chart for NeuVector monitor services
+    digest: d3af59abf922e7f209032c1bbb301e77cf9e5dc54160e632c5da929bc2cd368f
+    home: https://neuvector.com
+    icon: https://avatars2.githubusercontent.com/u/19367275?s=200&v=4
+    maintainers:
+    - email: support@neuvector.com
+      name: becitsthere
+    name: monitor
+    urls:
+    - https://neuvector.github.io/neuvector-helm/monitor-2.8.4.tgz
+    version: 2.8.4
   - apiVersion: v1
     appVersion: 1-1.0.0
     created: "2024-11-19T13:48:38.177812399Z"
@@ -1532,7 +1616,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.8.3.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.8.3.tgz
     version: 2.8.3
   - apiVersion: v1
     appVersion: 1-1.0.0
@@ -1546,7 +1630,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.8.2.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.8.2.tgz
     version: 2.8.2
   - apiVersion: v1
     appVersion: 1-1.0.0
@@ -1560,7 +1644,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.8.1.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.8.1.tgz
     version: 2.8.1
   - apiVersion: v1
     appVersion: 1-1.0.0
@@ -1574,7 +1658,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.8.0.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.8.0.tgz
     version: 2.8.0
   - apiVersion: v1
     appVersion: 1-1.0.0
@@ -1588,7 +1672,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.7.9.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.7.9.tgz
     version: 2.7.9
   - apiVersion: v1
     appVersion: 1-1.0.0
@@ -1602,7 +1686,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.7.8.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.7.8.tgz
     version: 2.7.8
   - apiVersion: v1
     appVersion: 1-1.0.0
@@ -1616,7 +1700,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.7.7.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.7.7.tgz
     version: 2.7.7
   - apiVersion: v1
     appVersion: 5.3.2
@@ -1630,7 +1714,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.7.6.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.7.6.tgz
     version: 2.7.6
   - apiVersion: v1
     appVersion: 5.3.0
@@ -1644,7 +1728,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.7.5.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.7.5.tgz
     version: 2.7.5
   - apiVersion: v1
     appVersion: 5.3.1
@@ -1658,7 +1742,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.7.4.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.7.4.tgz
     version: 2.7.4
   - apiVersion: v1
     appVersion: 5.3.0
@@ -1672,7 +1756,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.7.3.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.7.3.tgz
     version: 2.7.3
   - apiVersion: v1
     appVersion: 5.3.0
@@ -1686,7 +1770,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.7.2.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.7.2.tgz
     version: 2.7.2
   - apiVersion: v1
     appVersion: 5.2.4-s1
@@ -1700,7 +1784,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.7.1.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.7.1.tgz
     version: 2.7.1
   - apiVersion: v1
     appVersion: 5.2.4-s1
@@ -1714,7 +1798,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.7.0.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.7.0.tgz
     version: 2.7.0
   - apiVersion: v1
     appVersion: 5.2.4
@@ -1728,7 +1812,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.6.6.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.6.6.tgz
     version: 2.6.6
   - apiVersion: v1
     appVersion: 5.2.3
@@ -1742,7 +1826,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.6.5.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.6.5.tgz
     version: 2.6.5
   - apiVersion: v1
     appVersion: 5.2.2-s1
@@ -1756,7 +1840,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.6.4.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.6.4.tgz
     version: 2.6.4
   - apiVersion: v1
     appVersion: 5.2.2
@@ -1770,7 +1854,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.6.3.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.6.3.tgz
     version: 2.6.3
   - apiVersion: v1
     appVersion: 5.2.1
@@ -1784,7 +1868,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.6.2.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.6.2.tgz
     version: 2.6.2
   - apiVersion: v1
     appVersion: 5.2.0
@@ -1798,7 +1882,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.6.1.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.6.1.tgz
     version: 2.6.1
   - apiVersion: v1
     appVersion: 5.2.0
@@ -1812,7 +1896,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.6.0.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.6.0.tgz
     version: 2.6.0
   - apiVersion: v1
     appVersion: 5.1.3
@@ -1826,7 +1910,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.4.5.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.4.5.tgz
     version: 2.4.5
   - apiVersion: v1
     appVersion: 5.1.3
@@ -1840,7 +1924,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.4.4.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.4.4.tgz
     version: 2.4.4
   - apiVersion: v1
     appVersion: 5.1.2
@@ -1854,7 +1938,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.4.3.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.4.3.tgz
     version: 2.4.3
   - apiVersion: v1
     appVersion: 5.1.1
@@ -1868,7 +1952,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.4.2.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.4.2.tgz
     version: 2.4.2
   - apiVersion: v1
     appVersion: 5.1.0
@@ -1882,7 +1966,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.4.1.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.4.1.tgz
     version: 2.4.1
   - apiVersion: v1
     appVersion: 5.1.0
@@ -1896,7 +1980,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.4.0.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.4.0.tgz
     version: 2.4.0
   - apiVersion: v1
     appVersion: 5.0.5
@@ -1910,7 +1994,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.2.5.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.2.5.tgz
     version: 2.2.5
   - apiVersion: v1
     appVersion: 5.0.4
@@ -1924,7 +2008,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.2.4.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.2.4.tgz
     version: 2.2.4
   - apiVersion: v1
     appVersion: 5.0.3
@@ -1938,7 +2022,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.2.3.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.2.3.tgz
     version: 2.2.3
   - apiVersion: v1
     appVersion: 5.0.2
@@ -1952,7 +2036,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.2.2.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.2.2.tgz
     version: 2.2.2
   - apiVersion: v1
     appVersion: 5.0.1
@@ -1966,7 +2050,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.2.1.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.2.1.tgz
     version: 2.2.1
   - apiVersion: v1
     appVersion: 5.0.0
@@ -1980,7 +2064,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.2.0.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.2.0.tgz
     version: 2.2.0
   - apiVersion: v1
     appVersion: 5.0.0-b2
@@ -1994,7 +2078,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.2.0-b2.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.2.0-b2.tgz
     version: 2.2.0-b2
   - apiVersion: v1
     appVersion: 5.0.0-b1
@@ -2008,7 +2092,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-2.2.0-b1.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-2.2.0-b1.tgz
     version: 2.2.0-b1
   - apiVersion: v1
     appVersion: 4.4.4-s2
@@ -2022,7 +2106,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-1.9.2.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-1.9.2.tgz
     version: 1.9.2
   - apiVersion: v1
     appVersion: 4.3.2
@@ -2036,7 +2120,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-0.9.4.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-0.9.4.tgz
     version: 0.9.4
   - apiVersion: v1
     appVersion: 4.0.0
@@ -2050,7 +2134,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-0.9.3.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-0.9.3.tgz
     version: 0.9.3
   - apiVersion: v1
     appVersion: 4.0.0
@@ -2064,7 +2148,7 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-0.9.2.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-0.9.2.tgz
     version: 0.9.2
   - apiVersion: v1
     appVersion: 4.0.0
@@ -2078,6 +2162,6 @@ entries:
       name: becitsthere
     name: monitor
     urls:
-    - https://venkateshjayagopal.github.io/neuvector-helm-vj/monitor-0.9.1.tgz
+    - https://neuvector.github.io/neuvector-helm/monitor-0.9.1.tgz
     version: 0.9.1
-generated: "2024-11-19T13:48:38.175024304Z"
+generated: "2025-05-13T22:27:49.4945193Z"
