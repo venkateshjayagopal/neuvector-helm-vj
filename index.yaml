@@ -5,7 +5,7 @@ entries:
     appVersion: 5.4.5-rc1
     created: "2025-05-13T22:27:49.496854545Z"
     description: Helm chart for NeuVector's core services
-    digest: 38b7a194e246dde1c57da954c9030996
+    digest: 6e37f4ba4feeea603225b2c8e041a995ca48b5f53e1beb4c0fd0f5a314e10bc5
     home: https://neuvector.com
     icon: https://avatars2.githubusercontent.com/u/19367275?s=200&v=4
     maintainers:
